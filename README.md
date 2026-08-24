@@ -1,4 +1,4 @@
-<center> Languages & Tools </center>
+<div align="center"> Languages & Tools </div>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,next,nestjs,react,tailwind,prisma,postgres,redis,python,docker,nginx,linux&perline=6" />
